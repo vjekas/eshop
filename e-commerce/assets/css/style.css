@@ -242,7 +242,7 @@ hr {
 #banner {
     background-image: url("../imgs/collection1.jpg");
     width: 100%;
-    height: 100vh;
+    height: 50vh;
     background-size: cover;
     background-position-x: center;
     background-repeat: no-repeat;
